@@ -38,6 +38,8 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
 
+[Arctic Tatzlwyrm (Shen Edition) PDF](./Statblocks/arctic_tatzlewyrm_shen_edition.pdf)
+
 [Winter Touched Sprite Fighter PDF](./Statblocks/winter_touched_sprite_fighter.pdf)
 
 [Fawfein PDF](./Statblocks/Fawfein.pdf)
@@ -72,6 +74,8 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
+
+[Arctic Tatzlwyrm (Shen Edition) PNG](./Statblocks/arctic_tatzlewyrm_shen_edition.png)
 
 [Winter Touched Sprite Fighter PNG](./Statblocks/winter_touched_sprite_fighter.png)
 
