@@ -9,6 +9,7 @@ These Backgrounds are built mostly from the traits in the original adventure pat
 
 ## Archetype
 The following is a conversion of the Winter Witch prestige class and/or archetype from 1st edition to second edition.
+
 [Winter Witch (Shen Edition) PDF](./winter_witch_shen_edition.pdf)
 This is a combination of the abilities from both teh archetype and rpestige class, built with the ability to be taken by multiple classes, not jsut the witch, in mind. It functions similarly to the Runelord archetype in that it must be chosen at level 1 to be taken.
 
