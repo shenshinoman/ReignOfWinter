@@ -74,7 +74,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 
 ## Book 1 Hazards (PDF)
 
-[Spiked Log Trap PDF](./Statblocks/Hazards/spiked_log_trap_shen_edition.pdf) 
+[Spiked Log Trap (Shen Edition) PDF](./Statblocks/Hazards/spiked_log_trap_shen_edition.pdf) 
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -115,4 +115,4 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 
 ## Book 1 Hazards (PNG)
 
-[Spiked Log Trap PNG](./Statblocks/Hazards/spiked_log_trap_shen_edition.png)
+[Spiked Log Trap (Shen Edition) PNG](./Statblocks/Hazards/spiked_log_trap_shen_edition.png)
