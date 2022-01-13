@@ -1,10 +1,5 @@
 Hazard Statblocks
 
-PDF
-![Spiked Log Trap PDF](./Statblocks/Hazards/spiked_log_trap_shen_edition.pdf) 
-
-PNG
-![Spiked Log Trapm PNG](./Statblocks/Hazards/spiked_log_trap_shen_edition.png)
 
 The PDF and PNG files should be linked in the Book README.md file, for example (remove the space between the square and round brackets to use)
 
