@@ -15,7 +15,10 @@ Where multiple options for a single monster exists explain the differences below
 ## Monster Builds
 
 ### Arctic Tatzlewyrm
-- Creature has the same stats as the base Tatzlewyrm but the Natural Camouflage ability is altered to suit the arctic environment.
+- Creature has modified stats from the base Tatzlwyrm, and possesses cold resistance. The Natural Camouflage ability is further altered and renamed to suit the arctic environment.
+
+### Arctic Tatzlewyrm Shen Edition
+-Creature has the same stats as the base Tatzlwyrm but the Natural Camouflage ability has been modified to the arctic environment. 
 
 ### Winter-touched Sprite Fighter
 - Creature is basec on Sprite but leveled up and damage type changed to cold.
