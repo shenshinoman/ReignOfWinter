@@ -72,6 +72,10 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 
 [Valstoi PNG](./Statblocks/valstoi.png)
 
+## Book 1 Hazards (PDF)
+
+[Spiked Log Trap PDF](./Statblocks/Hazards/spiked_log_trap_shen_edition.pdf) 
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -108,3 +112,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 [Radosek Pavri PDF](./Statblocks/radosek_pavri.pdf)
 
 [Valstoi PDF](./Statblocks/valstoi.pdf)
+
+## Book 1 Hazards (PNG)
+
+[Spiked Log Trapm PNG](./Statblocks/Hazards/spiked_log_trap_shen_edition.png)
