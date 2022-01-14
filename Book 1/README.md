@@ -3,6 +3,8 @@
 [A Series of Dice-Based Events Discord.](https://discord.gg/UQ8UD3H)
 
 Templates for adding winter themed abilities to any 2e monster quickly are available [here](https://github.com/A-Series-of-Dice-Based-Events/ReignOfWinter/blob/master/Reign%20of%20Winter%20Templates.pdf).
+Or the Shen Edition of the templates can be found here. [here](https://github.com/shenshinoman/ReignOfWinter/blob/792861991f5e2925bb72885d934fcfaea7c301fe/Reign%20of%20Winter%20Templates%20Shen%20Edition.pdf)
+
 
 ## Notes on officially converted content
 
