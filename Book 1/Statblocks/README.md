@@ -21,10 +21,16 @@ Where multiple options for a single monster exists explain the differences below
 -Creature has almost the same stats as the base Tatzlwyrm but the Natural Camouflage ability has been modified to the arctic environment, and Craft has been repalced with Survival. 
 
 ### Winter-touched Sprite Fighter
-- Creature is basec on Sprite but leveled up and damage type changed to cold.
+- Creature is based on Sprite but leveled up and damage type changed to cold.
+
+### Winter-touched Sprite Shen Edition
+- Creature is a basic sprite with the Winter-Touched Shen Edition template applied
 
 ### Fawfein, Winter-Touched Atomie
 - damage types changed to cold.
+
+### Fawfein, Winter-Touched Atomie Shen Edition
+- Atomie rebuilt from the ground up, and given the Winter-Touched Shen Edition template. The non-template stats are similar, but slightly different, in just about every part of the creature
 
 ### Talking Stag
 - Loosely based on riding horse.
