@@ -46,7 +46,7 @@ Or the Shen Edition of the templates can be found here. [here](https://github.co
 
 [Winter Touched Sprite (Shen Edition) PDF](./Statblocks/winter_touched_sprite_shen_edition.pdf)
 
-[Fawfein PDF](./Statblocks/Fawfein.pdf)
+[Fawfein PDF](./Statblocks/Fafwein.pdf)
 
 [Fawfein (Shen Edition) PDF](./Statblocks/Fawfein_shen_edition.pdf)
 
@@ -91,7 +91,7 @@ Or the Shen Edition of the templates can be found here. [here](https://github.co
 
 [Winter Touched Sprite (Shen Edition) PDF](./Statblocks/winter_touched_sprite_shen_edition.png)
 
-[Fawfein PNG](./Statblocks/Fawfein.png)
+[Fawfein PNG](./Statblocks/Fafwein.png)
 
 [Fawfein (Shen Edition) PNG](./Statblocks/Fawfein_shen_edition.png)
 
