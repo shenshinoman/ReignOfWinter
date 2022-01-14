@@ -52,6 +52,8 @@ Or the Shen Edition of the templates can be found here. [here](https://github.co
 
 [Talking Stag PDF](./Statblocks/talking_stag.pdf)
 
+[Talking Stag (Shen Edition) PDF](./Statblocks/talking_stag_shen_edition.pdf)
+
 ['Ten Penny' Tacey PDF](./Statblocks/ten_penny_tacey.pdf)
 
 [Rokhar Cindren PDF](./Statblocks/rokhar_cindren.pdf)
@@ -96,6 +98,8 @@ Or the Shen Edition of the templates can be found here. [here](https://github.co
 [Fawfein (Shen Edition) PNG](./Statblocks/fafwein_shen_edition.png)
 
 [Talking Stag PNG](./Statblocks/talking_stag.png)
+
+[Talking Stag (Shen Edition) PDF](./Statblocks/talking_stag_shen_edition.pdf)
 
 ['Ten Penny' Tacey PNG](./Statblocks/ten_penny_tacey.png)
 
