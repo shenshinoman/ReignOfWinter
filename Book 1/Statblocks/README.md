@@ -35,6 +35,9 @@ Where multiple options for a single monster exists explain the differences below
 ### Talking Stag
 - Loosely based on riding horse.
 
+### Talking Stag Shen Edition
+- Built as a Yzobu with less strength but more dexterity, and the damage and defenses modified as such.
+
 ### 'Ten Penny' Tacey
 - Basic rogue-npc build with a half-orc ability.
 
